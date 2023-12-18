@@ -1,0 +1,49 @@
+.conteiner {
+  width: 41%;
+  height: 504px;
+  background-color: rgb(200, 92, 92);
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  border-left: 75px solid rgb(167, 77, 77);
+  border-top: 65px solid rgb(200, 92, 92);
+  border-radius: 37px;
+}
+.conteiner .click {
+  padding: 30px;
+  position: absolute;
+  top: -16%;
+  background-color: rgb(96, 59, 6);
+  padding: 19px 45px;
+  border-radius: 11px;
+  cursor: pointer;
+}
+.conteiner .focus {
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  position: absolute;
+  left: 53%;
+  top: 12%;
+  border-radius: 50%;
+  border: 14px solid gray;
+}
+.conteiner .focus .small_focus {
+  width: 354px;
+  height: 340px;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  left: 4%;
+  top: 5%;
+  border: 9px solid gray;
+}
+.conteiner .focus .small_focus .flash {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 53%;
+  top: 20%;
+  border-radius: 50%;
+  background-color: rgb(69, 69, 69);
+}/*# sourceMappingURL=style.css.map */
